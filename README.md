@@ -13,5 +13,5 @@ I am diving into this ecosystem for three primary reasons:
 
 ## Progress
 - Exercises: 94
-- Completed: 25
-- Remaining: 69
+- Completed: 30
+- Remaining: 64
